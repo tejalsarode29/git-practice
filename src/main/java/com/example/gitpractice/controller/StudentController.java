@@ -14,7 +14,7 @@ import com.example.gitpractice.model.Student;
 
 @RestController
 @RequestMapping
-public class Controller {
+public class StudentController {
 	@Autowired
 	StudentRepository stuRepo;
 	
